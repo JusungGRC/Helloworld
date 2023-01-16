@@ -1,0 +1,19 @@
+# "Hello world" script in python3
+# Created by Jusung Kim on 1/15 2023
+
+
+# Ask name of the user
+
+print("what is your name?")
+user_name = input()
+
+
+# Print hello and user name
+
+print("Hello!" , user_name)
+
+
+# Print a positive affirmation
+
+affirmation = "Have a great day!"
+print(affirmation)
